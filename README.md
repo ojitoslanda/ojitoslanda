@@ -20,7 +20,7 @@
 <br/>
 <br/>
 <div align='center'>
-      <img  style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak173&layout=compact&text_color=daf7dc&bg_color=151515">
+      <img  style="margin:20px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojitoslanda&layout=compact&text_color=daf7dc&bg_color=151515">
 </div>
 
 <br/>
