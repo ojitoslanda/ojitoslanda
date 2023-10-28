@@ -12,6 +12,7 @@
 </h1>
 
 
+<!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ojitoslanda" target="blank">
@@ -33,7 +34,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
 <img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=ojitoslanda&&show=reviews,discussions_answered&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 
-<!--
+
 **ojitoslanda/ojitoslanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
