@@ -1,16 +1,20 @@
 <!-- ![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg) -->
+<!-- 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ojitoslanda&label=Profile%20views&color=0e75b6&style=flat" alt="ojitoslanda" />
 </p>
 
 <div align="center">
       <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350" />
-</div>   
+</div> 
+ -->
+
 
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;Software+Developer;Always+learning+new+things." alt="Typing SVG" /></a>
 </h1>
 
+I'm a software developer who loves to create and share useful content about computing and the web when I'm somehow not writing code because I have no life at all. I love creating software that solves problems in a simple way and sharing what I learn along the way.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
