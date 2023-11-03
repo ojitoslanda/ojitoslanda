@@ -16,6 +16,8 @@
 
 I'm a software developer who loves to create and share useful content about computing and the web when I'm somehow not writing code because I have no life at all. I love creating software that solves problems in a simple way and sharing what I learn along the way.
 
+
+<!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ojitoslanda" target="blank">
@@ -23,7 +25,7 @@ I'm a software developer who loves to create and share useful content about comp
 </a>
 <a href="https://www.instagram.com/ojitoslandag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raunak_agarwal_" height="30" width="40" /></a>
 </p>
-
+-->
 
 <!--
 
